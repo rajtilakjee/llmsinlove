@@ -22,12 +22,10 @@ _LLMs in Love_ is a conversational AI project that simulates interactions betwee
     pip install -r requirements.txt
     ```
 
-4. Set up environment variables:
-    - Create a `.env` file in the root directory.
-    - Add your OpenRouter API key:
-        ```
-        OPENROUTER_API_KEY=your_openrouter_api_key
-        ```
+4. Create a `.env` file in the root directory and add your OpenRouter API key:
+    ```
+    OPENROUTER_API_KEY=your_openrouter_api_key
+    ```
 
 ## Usage
 
